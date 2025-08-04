@@ -19,7 +19,7 @@ Projeto de quadro Kanban simples desenvolvido com **HTML, CSS e JavaScript puro*
 
 - HTML5 semântico
 - CSS3 (design responsivo e moderno)
-- JavaScript Vanilla (sem bibliotecas)
+- JavaScript Puro (sem bibliotecas)
 - `localStorage` para simular persistência
 
 ---
@@ -44,7 +44,7 @@ kanban-app/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/kanban-app.git
+   git clone https://github.com/Webers0n/kanban-app.git
    ```
 
 2. Abra o arquivo `index.html` no navegador:
