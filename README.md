@@ -69,7 +69,8 @@ Este projeto foi desenvolvido para reforçar os conhecimentos de:
 
 ## 📸 Layout do Projeto
 
-![Screenshot do Kanban App](./screenshot.png) <!-- Substitua ou adicione uma imagem real do seu projeto aqui -->
+![Screenshot do Kanban App](<img width="1896" height="530" alt="image" src="https://github.com/user-attachments/assets/c36c1550-93a6-4437-a27f-6b9afcefc713" />
+) <!-- Substitua ou adicione uma imagem real do seu projeto aqui -->
 
 ---
 
