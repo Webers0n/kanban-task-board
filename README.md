@@ -73,4 +73,4 @@ Este projeto foi desenvolvido para reforçar os conhecimentos de:
 
 ---
 
-Feito com 💻 por [Seu Nome](https://github.com/Webers0n)
+Feito com 💻 por [Weberson Oliveira](https://github.com/Webers0n)
